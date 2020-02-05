@@ -1,0 +1,10 @@
+"use strict";
+var isValid = "3";
+var familyName = "";
+var age;
+age = 8;
+var isMarried = false;
+var isAuth;
+var welcomeSetence;
+welcomeSetence = "Bienvenue";
+var lang = "fr";
